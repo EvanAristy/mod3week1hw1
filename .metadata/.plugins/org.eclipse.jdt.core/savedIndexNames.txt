@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/evanaristy/Desktop/PerScholas/mod3/homework/mod3Week1HW1/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+45075512.index
+382965207.index
